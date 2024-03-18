@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Euronext",
+    "location": "Amsterdam",
+    "currency": "EUR",
+    "id": "ENX"
+  },
+  {
+    "name": "Nasdaq",
+    "location": "New York City",
+    "currency": "USD",
+    "id": "^IXIC"
+  },
+  {
+    "name": "Swiss Stock Exchange",
+    "location": "Zurich",
+    "currency": "CHF",
+    "id": "SIX"
+  }
+]
